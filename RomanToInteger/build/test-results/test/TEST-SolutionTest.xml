@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-21T11:06:00" hostname="Jayui-MacBookPro.local" time="0.029">
+  <properties/>
+  <testcase name="eg1()" classname="SolutionTest" time="0.027"/>
+  <testcase name="eg2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="eg3()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

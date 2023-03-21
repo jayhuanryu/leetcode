@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-30T09:47:41" hostname="Jayui-MacBookPro.local" time="0.023">
+<testsuite name="SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-30T10:49:53" hostname="Jayui-MacBookPro.local" time="0.018">
   <properties/>
-  <testcase name="test5" classname="SolutionTest" time="0.023"/>
-  <system-out><![CDATA[firstHalf : , secondHalf : 
-firstHalf : Q, secondHalf : Q
-firstHalf : QQS, secondHalf : YSQ
-firstHalf : QQSY, secondHalf : YSQQ
-firstHalf : SQQSY, secondHalf : YSQQS
-]]></system-out>
+  <testcase name="test3" classname="SolutionTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
